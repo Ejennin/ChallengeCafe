@@ -1,0 +1,7 @@
+C:\ElevenFiftyProjects\DotNetProjects\ChallengeCafe\bin\Debug\ChallengeCafe.exe.config
+C:\ElevenFiftyProjects\DotNetProjects\ChallengeCafe\bin\Debug\ChallengeCafe.exe
+C:\ElevenFiftyProjects\DotNetProjects\ChallengeCafe\bin\Debug\ChallengeCafe.pdb
+C:\ElevenFiftyProjects\DotNetProjects\ChallengeCafe\obj\Debug\ChallengeCafe.csprojAssemblyReference.cache
+C:\ElevenFiftyProjects\DotNetProjects\ChallengeCafe\obj\Debug\ChallengeCafe.csproj.CoreCompileInputs.cache
+C:\ElevenFiftyProjects\DotNetProjects\ChallengeCafe\obj\Debug\ChallengeCafe.exe
+C:\ElevenFiftyProjects\DotNetProjects\ChallengeCafe\obj\Debug\ChallengeCafe.pdb
